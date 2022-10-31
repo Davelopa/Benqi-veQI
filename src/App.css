@@ -1,3 +1,15 @@
+:root {
+  --pri-clr: #00171f;
+  --sec-clr: #002430;
+  --button-clr: #00b3ed;
+}
+
+body {
+  text-align: center;
+  background-color: #00171f;
+color: #fff;
+}
+
 .App {
   text-align: center;
 }
