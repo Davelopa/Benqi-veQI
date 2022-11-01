@@ -5,9 +5,9 @@ export default function Main() {
     return (
     <div>
         <h2>Stake QI for veQI</h2>
-        <img src={veQIGraph} />
+        <img src={veQIGraph} alt="QI graph" />
         <div>
-            <img src={qiGradient} alt="" />
+            <img src={qiGradient} alt="QI logo" />
             <p>Please connect your wallet to stake QI</p>
             <button>Connect Wallet</button>
         </div>
