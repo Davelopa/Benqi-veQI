@@ -6,3 +6,7 @@
 
 @import 'components/Header.css';
 @import 'components/Logo.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
