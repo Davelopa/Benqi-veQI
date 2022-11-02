@@ -50,3 +50,7 @@ color: #fff;
     transform: rotate(360deg);
   }
 }
+
+.app-container {
+  margin: 0 5vw;
+}

@@ -1,0 +1,19 @@
+.QI-logo {
+    width: 25%;
+}
+
+.connect-wallet {
+    transform: translateY(-4rem);
+}
+
+.connect-wallet-container {
+    box-shadow: 0 0 25px 5px rgb(0 0 0 / 0.1), 0 0 10px 6px rgb(0 0 0 / 0.1);;
+}
+
+.connect-wallet-content {
+    transform: translateY(2rem);
+}
+
+.connect-wallet-button {
+    border-color: var(--acs-clr);
+}

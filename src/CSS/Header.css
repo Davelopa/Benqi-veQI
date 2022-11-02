@@ -1,0 +1,15 @@
+header {
+}
+
+header ul li {
+    /* padding: 0 1rem */
+}
+
+.header-menu li {
+    padding: 0 0.5rem;
+}
+
+.header-connect-btn {
+    background-color: #003648;
+    border-color: var(--acs-clr);
+}

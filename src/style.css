@@ -1,11 +1,15 @@
-@import 'base/reset.css';
-@import 'base/base.css';
+@import 'CSS/base/reset.css';
+@import 'CSS/base/base.css';
 
-@import 'index.css';
-@import 'App.css';
+@import 'CSS/index.css';
+@import 'CSS/App.css';
 
-@import 'components/Header.css';
-@import 'components/Logo.css';
+@import 'CSS/Header.css';
+@import 'CSS/Logo.css';
+
+@import 'CSS/MenuSelector.css';
+@import 'CSS/Main.css';
+@import 'CSS/ConnectWallet.css';
 
 @tailwind base;
 @tailwind components;

@@ -5,12 +5,9 @@
     --border-radius: 20px;
     --border-margin: 0.15em;
   
-    --primary-clr: #E38B29;
-    --secondary-clr: #F1A661;
-    --accent-clr1: #FFD8A9;
-    --accent-clr2: #FDEEDC;
-    --light-clr: #92B4EC;
-    --dark-clr: #2C3639;
+    --pri-clr: #E38B29;
+    --sec-clr: #002430;
+    --acs-clr: #00b3ed;
   
     --font-railway: 'Raleway', sans-serif;
   }

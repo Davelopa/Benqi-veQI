@@ -1,6 +1,5 @@
 import BenqiLogo from "../assets/logo-benqi.svg"
-import "./Logo.css"
 
 export default function Logo() {
-    return <img class="logo" src={BenqiLogo} alt="" />
+    return <div className="flex justify-center"><img className="logo" src={BenqiLogo} alt="" /></div>
 }
