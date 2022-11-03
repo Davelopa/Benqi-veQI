@@ -1,0 +1,35 @@
+.QI-logo-vote {
+    width: 6rem;
+}
+
+.vote-container {
+    transform: translateY(2rem);
+}
+
+.vote-info {
+    /* width: 32rem; */
+}
+
+.vote-text-highlight {
+    color: var(--acs-clr);
+}
+
+.connect-wallet-vote {
+    transform: translateY(-5rem);
+}
+
+.vote-power {
+    background-color: var(--acs-clr2);
+}
+
+.node-search {
+    border-color: var(--acs-clr);
+}
+
+.node-search::placeholder {
+    color: var(--acs-clr);
+}
+
+.vote-head {
+    background-color: var(--pri-clr);
+}

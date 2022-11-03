@@ -10,6 +10,8 @@
 @import 'CSS/MenuSelector.css';
 @import 'CSS/Main.css';
 @import 'CSS/ConnectWallet.css';
+@import 'CSS/StakeComponent.css';
+@import 'CSS/VoteComponent.css';
 
 @tailwind base;
 @tailwind components;

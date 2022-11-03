@@ -1,0 +1,16 @@
+.stake-container {
+    transform: translateY(2rem);
+}
+
+.stake-info {
+    /* width: 18rem; */
+}
+
+.stake-text-highlight {
+    color: var(--acs-clr);
+}
+
+.stake-btn {
+    border-color: var(--acs-clr);
+    width: 8rem;
+}
