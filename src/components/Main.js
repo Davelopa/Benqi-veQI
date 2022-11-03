@@ -1,7 +1,7 @@
 import MenuSelector from './MenuSelector';
 // import ConnectWallet from './ConnectWallet';
-// import StakeComponent from './StakeComponent';
-import VoteComponent from './VoteComponent';
+import StakeComponent from './StakeComponent';
+// import VoteComponent from './VoteComponent';
 
 export default function Main() {
     return (
@@ -13,8 +13,8 @@ export default function Main() {
             <div className="flex px-12 pt-6">
                 
                 {/* <ConnectWallet /> */}
-                {/* <StakeComponent /> */}
-                <VoteComponent />
+                <StakeComponent />
+                {/* <VoteComponent /> */}
             </div>
             </div>
     </div> 

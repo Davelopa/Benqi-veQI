@@ -1,4 +1,5 @@
 import Logo from "./Logo"
+import ConnectWallet from "./ConnectWallet"
 
 export default function Header() {
     return (
@@ -13,7 +14,8 @@ export default function Header() {
             </ul>
             <div className="flex place-self-center">
                 <a href="/" className="my-auto mr-2 px-4"><p>Lend & Borrow</p></a>
-                <button className="header-connect-btn rounded-3xl py-2 px-4 border-2">Connect Wallet</button>
+                <ConnectWallet />
+                {/* <button className="header-connect-btn rounded-3xl py-2 px-4 border-2">Connect Wallet</button> */}
             </div>
         </div>
     </header>
